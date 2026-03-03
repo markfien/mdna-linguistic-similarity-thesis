@@ -86,3 +86,17 @@ To replicate the analysis:
     4. Descriptive statistics.ipynb
 
 Outputs will automatically populate the outputs/ directory.
+
+Data Availability
+
+Annual reports are publicly available via company investor relations websites.
+
+This repository does not include:
+
+1. Raw PDFs
+2. Extracted MD&A text
+3. Cleaned corpora
+
+Academic Context
+
+This repository accompanies an MSc thesis investigating changes in linguistic similarity in corporate MD&A reporting between 2019 and 2024.
