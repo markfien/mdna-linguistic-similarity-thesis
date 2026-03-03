@@ -22,7 +22,7 @@ Required Folders:
 File naming (crucial)
 
 To ensure compatibility with the scripts use the following naming conventions:
-1. PDF Files -> <firm>_report_<year>.pdf -> example: ak_report_2019.pdf
+1. PDF Files -> firm_report_year.pdf -> example: ak_report_2019.pdf
 2. Always check the firm tickers and the years in the scripts
 
 Description of the scripts:
